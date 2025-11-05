@@ -34,7 +34,6 @@
   <img src="https://skillicons.dev/icons?i=python,django,react,typescript,tailwind,docker,postgresql,git,linux,vscode&perline=5" />
 </p>
 
-
 ---
 
 ### 📈 Mes stats GitHub
@@ -42,6 +41,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arimisa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arimisa&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+</p>
+
+---
+
+### 💡 Langages les plus utilisés
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimisa&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
 </p>
 
 ---
