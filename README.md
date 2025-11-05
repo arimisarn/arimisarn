@@ -1,70 +1,71 @@
-<!-- 💫 README personnalisé par Arimisa -->
+<!-- 🌸 README GitHub stylé & animé par Arimisa -->
 
-<h1 align="center">👋 Salut, moi c’est <span style="color:#6C63FF;">Arimisa</span> !</h1>
+<h1 align="center">
+  Salut 👋 Moi c’est <span style="color:#A78BFA;">Arimisa</span>
+</h1>
 
 <p align="center">
-  <em>💻 Étudiante en L3 Informatique | 🌸 Développeuse Web Fullstack | 🤖 Passionnée par l’IA & les technologies modernes</em>
+  <img src="https://i.pinimg.com/originals/f9/f0/91/f9f0913b6ee59d9f022f936c9047a7e9.gif" width="250" alt="developer girl gif">
+</p>
+
+<p align="center">
+  💻 Étudiante en <strong>L3 Informatique</strong> <br/>
+  🌸 Développeuse Fullstack & passionnée d’<strong>IA</strong> <br/>
+  🪄 Je crée des expériences digitales modernes, intuitives et intelligentes.
 </p>
 
 ---
 
-### 🧭 À propos de moi
+### ✨ À propos de moi
 
-- 🎓 Étudiante en **Licence 3 Informatique**
-- 🚀 En train de développer une **plateforme de coaching personnalisé via IA**
-- 💬 Technologies principales : **Django**, **React TypeScript**, **TailwindCSS**, **Docker**, **PostgreSQL**, **Ollama**
-- 🌱 Actuellement, j’explore les modèles **LLM offline** et le **déploiement cloud (Render + Vercel + Neon)**
-- 🎨 J’aime allier design moderne et code propre
+- 🎓 Étudiante à la fac, curieuse et autodidacte  
+- ⚙️ Technologies favorites : **Django**, **React TS**, **TailwindCSS**, **Docker**, **PostgreSQL**, **Ollama**  
+- 💬 Je crois que le code est une forme d’art — entre logique et créativité  
+- 🌱 En ce moment, je travaille sur une **plateforme de coaching IA hors ligne**  
+- 🎧 Toujours accompagnée de musique quand je code 🎵  
 
 ---
 
-### 🛠️ Compétences & Outils
+### 🛠️ Stack & Outils
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,django,react,typescript,tailwind,docker,postgresql,git,linux,vscode&perline=5" />
 </p>
 
 ---
 
-### 💡 Projets récents
-
-🚀 **[Coaching IA App](https://github.com/arimisa/coachingApp)**  
-> Plateforme de coaching intelligent avec profil utilisateur, IA locale (Ollama) et interface moderne React + Django.
-
-🎨 **[Portfolio Next.js](https://github.com/arimisa/portfolio)**  
-> Portfolio personnel élégant avec animations Framer Motion et design en verre.
-
-⚙️ **[Mini-jeu TypeScript](https://github.com/arimisa/ts-game)**  
-> Petit jeu interactif développé pour s’entraîner en TypeScript.
-
----
-
-### 📊 Statistiques GitHub
+### 💫 Un peu de fun dans le code
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arimisa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimisa&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGE5cDA5c3ZyaGd6ZzRvd2k3dXYzZWF4MGVvM2h5bmYxNWdwbTNkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pOZhmE42D1WrCWjJbm/giphy.gif" width="400" alt="coding gif">
 </p>
 
 ---
 
-### 🌐 Me retrouver
+### 📈 Mes stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arimisa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arimisa&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+</p>
+
+---
+
+### 🌐 Connecte-toi avec moi !
 
 <p align="center">
   <a href="mailto:arimisa.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/arimisa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://tsinjool.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌸%20Mon%20Portfolio-6C63FF?style=for-the-badge"/></a>
+  <a href="https://tsinjool.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌸%20Portfolio-6C63FF?style=for-the-badge"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <em>✨ "Le code, c’est la poésie de la logique." ✨</em><br/>
-  <sub>Fait avec ❤️ et ☕ par Arimisa</sub>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300" />
+</p>
+
+<p align="center">
+  <em>✨ “Le code, c’est transformer l’imagination en réalité.” ✨</em>  
+  <br/> <sub>Fait avec ❤️ par Arimisa</sub>
 </p>
