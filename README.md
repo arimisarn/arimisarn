@@ -37,7 +37,7 @@
 ### 💫 Un peu de fun dans le code
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="450" alt="coding girl gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cm52bWUxbmJhaGt4ZmlmbmVqNmpnbmUwbWlub2NqdnkwMm1pd3lkMiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 </p>
 
 ---
