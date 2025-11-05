@@ -68,6 +68,6 @@
 </p>
 
 <p align="center">
-  <em>✨ “Le code, c’est transformer l’imagination en réalité.” ✨</em>  
-  <br/> <sub>Fait avec ❤️ par Arimisa</sub>
+  <em>✨ “Le code n’est pas seulement une suite d’instructions. C’est une forme d’expression, un moyen de construire le futur.” ✨</em>  
+  <br/> <sub> Arimisa</sub>
 </p>
