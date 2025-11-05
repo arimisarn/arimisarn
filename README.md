@@ -39,8 +39,8 @@
 ### 📈 Mes stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arimisa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arimisa&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arimisarn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arimisarn&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
 </p>
 
 ---
