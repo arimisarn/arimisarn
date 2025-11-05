@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f9/f0/91/f9f0913b6ee59d9f022f936c9047a7e9.gif" width="250" alt="developer girl gif">
+  <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcbbc89c7d4c0e51b0e7d5.gif" width="230" alt="developer girl gif">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 ### 💫 Un peu de fun dans le code
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGE5cDA5c3ZyaGd6ZzRvd2k3dXYzZWF4MGVvM2h5bmYxNWdwbTNkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pOZhmE42D1WrCWjJbm/giphy.gif" width="400" alt="coding gif">
+  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="450" alt="coding girl gif">
 </p>
 
 ---
