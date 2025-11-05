@@ -57,8 +57,7 @@
 
 <p align="center">
   <a href="mailto:arimisa.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/arimisa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://tsinjool.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌸%20Portfolio-6C63FF?style=for-the-badge"/></a>
+  <a href="https://arofolios.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌸%20Portfolio-6C63FF?style=for-the-badge"/></a>
 </p>
 
 ---
