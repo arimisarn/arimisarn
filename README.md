@@ -3,7 +3,9 @@
 <h1 align="center">
   Salut 👋 Moi c’est <span style="color:#A78BFA;">Arimisa</span>
 </h1>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cm52bWUxbmJhaGt4ZmlmbmVqNmpnbmUwbWlub2NqdnkwMm1pd3lkMiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
+</p>
 <p align="center">
   <img src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcbbc89c7d4c0e51b0e7d5.gif" width="230" alt="developer girl gif">
 </p>
@@ -32,13 +34,6 @@
   <img src="https://skillicons.dev/icons?i=python,django,react,typescript,tailwind,docker,postgresql,git,linux,vscode&perline=5" />
 </p>
 
----
-
-### 💫 Un peu de fun dans le code
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cm52bWUxbmJhaGt4ZmlmbmVqNmpnbmUwbWlub2NqdnkwMm1pd3lkMiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
-</p>
 
 ---
 
