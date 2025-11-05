@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  💻 Étudiante en <strong>L3 Informatique</strong> <br/>
+  💻 Étudiante en <strong>M1 Informatique</strong> <br/>
   🌸 Développeuse Fullstack & passionnée d’<strong>IA</strong> <br/>
   🪄 Je crée des expériences digitales modernes, intuitives et intelligentes.
 </p>
@@ -64,7 +64,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXI5YzdpY3l1NzdlNG4zN3kwYmxxOTk1Y2drbXo0ZGd0YzljdXpyNyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/9PhdJO4CMfyfXDCnko/giphy.gif" width="300" />
 </p>
 
 <p align="center">
