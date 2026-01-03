@@ -11,24 +11,23 @@
 </p>
 
 <p align="center">
-  💻 Étudiante en <strong>M1 Informatique</strong> <br/>
-  🌸 Développeuse Fullstack & passionnée d’<strong>IA</strong> <br/>
-  🪄 Je crée des expériences digitales modernes, intuitives et intelligentes.
+  Étudiante en <strong>M1 Informatique</strong> <br/>
+  Développeuse Fullstack & passionnée d’<strong>IA</strong> <br/>
+  Je crée des expériences digitales modernes, intuitives et intelligentes.
 </p>
 
 ---
 
-### ✨ À propos de moi
+### À propos de moi
 
-- 🎓 Étudiante à la fac, curieuse et autodidacte  
-- ⚙️ Technologies favorites : **Django**, **React TS**, **TailwindCSS**, **Docker**, **PostgreSQL**, **Ollama**  
-- 💬 Je crois que le code est une forme d’art — entre logique et créativité  
-- 🌱 En ce moment, je travaille sur une **plateforme de coaching IA hors ligne**  
-- 🎧 Toujours accompagnée de musique quand je code 🎵  
+-  Étudiante à la fac, curieuse et autodidacte  
+- Technologies favorites : **Django**, **React TS**, **TailwindCSS**, **Docker**, **PostgreSQL**, **Ollama**  
+-  Je crois que le code est une forme d’art — entre logique et créativité    
+-  Toujours accompagnée de musique quand je code 
 
 ---
 
-### 🛠️ Stack & Outils
+### Stack & Outils
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,typescript,tailwind,docker,postgresql,git,linux,vscode&perline=5" />
@@ -36,7 +35,7 @@
 
 ---
 
-### 📈 Mes stats GitHub
+### Mes stats GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arimisarn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
@@ -45,7 +44,7 @@
 
 ---
 
-### 💡 Langages les plus utilisés
+### Langages les plus utilisés
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimisarn&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" />
@@ -53,7 +52,7 @@
 
 ---
 
-### 🌐 Connecte-toi avec moi !
+### Connecte-toi avec moi !
 
 <p align="center">
   <a href="mailto:arimisa.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
